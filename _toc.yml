@@ -1,0 +1,22 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: mlBasics
+  sections:
+  - file: pca
+
+- file: dataVisualisation
+  sections:
+  - file: campChain
+
+- file: statisticalTests
+  sections:
+  - file: mannWhitneyUtest.ipynb
+
+- file: deepLearning
+  sections:
+  - file: neuralStyleTransfer.ipynb
+
