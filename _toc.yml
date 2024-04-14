@@ -15,6 +15,7 @@ chapters:
 - file: statisticalTests
   sections:
   - file: mannWhitneyUtest.ipynb
+  - file: caseStudyAppostrophe.ipynb
 
 - file: deepLearning
   sections:

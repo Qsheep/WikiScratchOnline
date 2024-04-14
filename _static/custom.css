@@ -1,0 +1,7 @@
+/* Adjust width of the left sidebar */
+.bd-sidebar {
+  width: 150px; /* Adjust the width as needed */
+}
+.bd-main .bd-content .bd-article-container {
+  max-width: 100%;  /* default is 60em */
+}
