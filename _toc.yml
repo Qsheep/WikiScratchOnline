@@ -10,7 +10,7 @@ chapters:
 
 - file: dataVisualisation
   sections:
-  - file: campChain
+  - file: heatMap4purchasingData
 
 - file: statisticalTests
   sections:
